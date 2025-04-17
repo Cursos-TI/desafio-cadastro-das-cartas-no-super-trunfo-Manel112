@@ -84,7 +84,7 @@ No nível Mestre, você implementará a comparação entre duas cartas e o cálc
 *   A saída mostrará o resultado da comparação para cada atributo e o Super Poder.
 
 **Observação:**  Preste atenção à conversão de tipos ao calcular o Super Poder!
-
+---------------------------------------------------------------------------------------------------------------------------------------
 Escolha de Dois Atributos: O sistema deve permitir que o jogador escolha dois atributos numéricos diferentes para a comparação das cartas, através de menus interativos. Implemente a lógica necessária para garantir que o jogador não possa selecionar o mesmo atributo duas vezes.
  
 Comparação com Múltiplos Atributos: Implemente a lógica para comparar as duas cartas com base nos dois atributos escolhidos. Para cada atributo, a regra geral é: vence a carta com o maior valor. A exceção continua sendo a Densidade Demográfica, onde vence a carta com o menor valor.
